@@ -1,0 +1,11 @@
+[[review]]
+type="movie"
+name="Smile (2022)"
+rating=3
+text="""
+Entire plot is "Woman gets cursed".
+Suspensful scenes with jumpscares make the entire movie.
+Horror doesn't mean "Intentionally unplesant".
+"""
+[review.links]
+        imdb="https://www.imdb.com/title/tt15474916/"
